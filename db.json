@@ -1,0 +1,94 @@
+{
+  "ngos": [
+    {
+      "id": "1",
+      "name": "Ação do Bem",
+      "address": "Rua da Solidariedade, 123, Centro",
+      "objective": "Promover a inclusão social de crianças em situação de vulnerabilidade.",
+      "needs": "Materiais escolares, roupas e alimentos não perecíveis.",
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "id": "2",
+      "name": "Amigos da Natureza",
+      "address": "Avenida Verde, 456, Jardim Ambiental",
+      "objective": "Conservar e proteger o meio ambiente através de educação e ação comunitária.",
+      "needs": "Voluntários para plantio de árvores e materiais de jardinagem.",
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "id": "3",
+      "name": "Cuidar de Quem Ama",
+      "address": "Praça do Coração, 789, Bairro do Amor",
+      "objective": "Oferecer suporte emocional e físico a idosos.",
+      "needs": "Alimentos, produtos de higiene e voluntários para visitas.",
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "id": "4",
+      "name": "Futuro Brilhante",
+      "address": "Rua do Conhecimento, 101, Educação Para Todos",
+      "objective": "Oferecer educação de qualidade para jovens carentes.",
+      "needs": "Livros, computadores e materiais didáticos.",
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "id": "5",
+      "name": "Mãos que Ajudam",
+      "address": "Rua da Esperança, 202, Vila Esperança",
+      "objective": "Auxiliar famílias em situação de risco através de atendimento psicológico e social.",
+      "needs": "Voluntários para atendimento e materiais de escritório.",
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "id": "6",
+      "name": "Projeto Abraço",
+      "address": "Rua do Amor, 100, Pedra de Guaratiba",
+      "objective": "Oferecer suporte a crianças e adolescentes em situação de vulnerabilidade.",
+      "needs": "Roupas, alimentos e voluntários.",
+      "latitude": -23.0411,
+      "longitude": -43.5995
+    },
+    {
+      "id": "7",
+      "name": "Jardim das Ideias",
+      "address": "Avenida da Esperança, 200, Pedra de Guaratiba",
+      "objective": "Promover a educação ambiental e cidadania.",
+      "needs": "Materiais de jardinagem e doações de livros.",
+      "latitude": -23.04,
+      "longitude": -43.6
+    },
+    {
+      "id": "8",
+      "name": "Centro de Apoio à Criança",
+      "address": "Rua da Solidariedade, 50, Pedra de Guaratiba",
+      "objective": "Apoiar o desenvolvimento de crianças em situação de risco.",
+      "needs": "Voluntários para atividades recreativas e educativas.",
+      "latitude": -23.0415,
+      "longitude": -43.598
+    },
+    {
+      "id": "9",
+      "name": "Incluir para Transformar",
+      "address": "Praça da Comunidade, 300, Pedra de Guaratiba",
+      "objective": "Promover a inclusão de pessoas com deficiência.",
+      "needs": "Recursos para oficinas e eventos.",
+      "latitude": -23.0405,
+      "longitude": -43.599
+    },
+    {
+      "id": "10",
+      "name": "Esperança Renovada",
+      "address": "Rua da Vida, 150, Pedra de Guaratiba",
+      "objective": "Oferecer assistência a famílias em situação de vulnerabilidade.",
+      "needs": "Doações de alimentos e roupas.",
+      "latitude": -23.042,
+      "longitude": -43.601
+    }
+  ]
+}
